@@ -85,9 +85,3 @@ For Chrome this release line is [Chrome Enterprise](https://enterprise.google.co
 1. Firedfox ESR Landing Process: https://wiki.mozilla.org/Release_Management/ESR_Landing_Process
 1. Firefox ESR deployment using Group Policy: https://developer.mozilla.org/en-US/Firefox/Enterprise_deployment
 
-
-[^CE]: https://enterprise.google.com/chrome/chrome-browser/
-erprise_deployment
-
-[^CE]: https://enterprise.google.com/chrome/chrome-browser/
-[^ESR]: https://www.mozilla.org/en-US/firefox/organizations/
